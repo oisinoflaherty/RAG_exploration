@@ -1,0 +1,6 @@
+langchain-google-vertexai
+langchain
+bs4
+langchain_chroma
+langchain_community
+langchainhub
